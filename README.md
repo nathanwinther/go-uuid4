@@ -2,6 +2,12 @@
 
 Create Version 4 UUIDs as specified in RFC 4122
 
+## Installation
+
+This package can be installed with the go get command:
+
+    go get github.com/nathanwinther/go-uuid4
+    
 ## Usage
 
     package main
